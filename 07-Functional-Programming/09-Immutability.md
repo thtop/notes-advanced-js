@@ -1,7 +1,7 @@
 # Immutability
 
 ```js
-const obj = { name: 'Anfrei' };
+const obj = { name: 'Commander Lexa' };
 function clone(obj) {
   return { ...obj }; // this is pure.
 }
