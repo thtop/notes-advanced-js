@@ -6,7 +6,7 @@ Before we get started, let's do a quick exercise that won't take you more than 5
 
 2. Go to the #programming-buddies. I want everyone here to find a partner to work with. We all need a programming buddy, so that is what we'll be doing today, finding programming buddies! You will be keeping each other accountable throughout the course and motivating each other to finish. I know it may sound silly, but this is the biggest factor in completing the course. Who knows, maybe you will find life long friends / coworkers this way.
 
-3.Our community is growing and Discord has a lot of discussions. Check out different channels and especially for this course: #js, and #interview-questions. Finally the #recapoftheday and #announcements help you stay up to date with this Discord community. As our community grows it will be difficult to keep up with all the channels. #recapoftheday will only be one or two posts a day only by myself or a few of the administrators with important messages that you may have missed from Discord. This way you can always make sure you are up to date with what's happening.
+3. Our community is growing and Discord has a lot of discussions. Check out different channels and especially for this course: #js, and #interview-questions. Finally the #recapoftheday and #announcements help you stay up to date with this Discord community. As our community grows it will be difficult to keep up with all the channels. #recapoftheday will only be one or two posts a day only by myself or a few of the administrators with important messages that you may have missed from Discord. This way you can always make sure you are up to date with what's happening.
 
 Some of the channels available for you to join:
 
