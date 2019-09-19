@@ -12,4 +12,6 @@
 function a() {}
 
 //window
+// a
+// [[Sopes]]
 ```
