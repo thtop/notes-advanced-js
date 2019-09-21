@@ -63,7 +63,7 @@ console.log(letUserLogin('Adam'));
 console.log(letUserLogin('Eva'));
 ```
 
-# Version 2 - 3 DRI
+# Version 2 - 3 DRY
 
 ```js
 // - What data to use.
