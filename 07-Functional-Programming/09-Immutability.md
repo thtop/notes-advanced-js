@@ -1,10 +1,6 @@
 # Immutability
 
-- Not chaing
-
-  - the data
-  - the state
-
+- Not chaing the data and the state
 - Copy of the state and return new state everytime
 
 ```js
