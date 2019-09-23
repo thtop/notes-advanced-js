@@ -1,5 +1,12 @@
 # Immutability
 
+- Not chaing
+
+  - the data
+  - the state
+
+- Copy of the state and return new state everytime
+
 ```js
 const obj = { name: 'Commander Lexa' };
 function clone(obj) {
