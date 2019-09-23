@@ -47,3 +47,25 @@ const multiplyBy3AndMakePositive = pipe(
 const result = multiplyBy3AndMakePositive(-50);
 console.log(result); // 150
 ```
+
+## Code by me
+
+```js
+// 1. parse int
+// 2. * by 5
+
+const compose = (f, g) => data => f(g(data));
+
+const parsed = num => parseInt(num);
+const add = num => num * 5;
+
+const parsedAndAddBy5 = compose(
+  parsed,
+  add
+);
+
+const result = parsedAndAddBy5('5');
+console.log(result); // 25
+
+console.log('5' + 5);
+```
