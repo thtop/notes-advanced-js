@@ -65,7 +65,8 @@ console.log(b(a(3, 4))); //
 ## Very easy to
 
 - test
-- Compose and avoids a lot of bugs
-- because we have no mutations
-- no shared state.
+- Compose
+- Avoids a lot of bugs
+- Because we have no mutations
+- No shared state.
 - Predictable functions
