@@ -9,6 +9,13 @@ const user = {
   purchases: []
 };
 
+item = {
+  name: 'name',
+  price: 300
+};
+
+purchases: [];
+
 // Implement a cart feature:
 // 1. Add Items to cart.
 // 2. Add 3% tax to item in cart
