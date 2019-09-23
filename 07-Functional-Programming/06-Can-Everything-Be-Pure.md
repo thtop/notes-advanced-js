@@ -1,10 +1,10 @@
 # Can Everything Be Pure?
 
 - No site effects
-- The same input
+- The same input -> same output
 
 - The goal of functional programming is not to make everything pure functions.
-- The goal is to minimizw side effects.
+- The goal is to minimize side effects.
 
 - Purity is more of a confidence level.
 - It cannot be 100 precent.
